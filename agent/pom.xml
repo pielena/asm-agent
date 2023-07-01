@@ -29,6 +29,13 @@
             <artifactId>asm-util</artifactId>
             <version>9.5</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.ow2.asm/asm-commons -->
+        <dependency>
+            <groupId>org.ow2.asm</groupId>
+            <artifactId>asm-commons</artifactId>
+            <version>9.5</version>
+        </dependency>
+
     </dependencies>
     <build>
         <finalName>agent</finalName>
